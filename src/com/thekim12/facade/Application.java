@@ -1,6 +1,6 @@
 package com.thekim12.facade;
 
-import com.thekim12.facade.src.facade.system.Facade;
+import com.thekim12.facade.system.Facade;
 
 public class Application {
     public static void main(String[] args) {

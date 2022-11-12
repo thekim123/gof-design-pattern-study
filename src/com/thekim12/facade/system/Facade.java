@@ -1,4 +1,4 @@
-package facade.system;
+package com.thekim12.facade.system;
 
 public class Facade {
 

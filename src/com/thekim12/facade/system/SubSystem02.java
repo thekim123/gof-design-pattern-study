@@ -1,4 +1,4 @@
-package facade.system;
+package com.thekim12.facade.system;
 
 class SubSystem02 {
     public SubSystem02(){

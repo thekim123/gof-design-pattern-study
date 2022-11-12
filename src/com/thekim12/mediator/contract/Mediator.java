@@ -15,12 +15,10 @@ public abstract class Mediator {
 			return false;
 		}
 		
-		// 중재자에 추가
 		colleagues.add(colleague);
 		return true;
 	}
 	
-	// 중재 매소드를 추상화해 놓음
 	public abstract void mediate(String data);
 
 }
