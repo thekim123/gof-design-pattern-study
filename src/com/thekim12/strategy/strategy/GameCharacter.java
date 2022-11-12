@@ -8,15 +8,15 @@ public class GameCharacter {
 		this.weapon = weapon;
 	}
 	
-	public void attack() {
+	public void ê³µê²©() {
 		
 		if(weapon == null) {
-			System.out.println("ÁÖ¸ÔÁú");
+			System.out.println("ì£¼ë¨¹ì§ˆ");
 			return;
 		}
 		
-		// À§ÀÓ
-		weapon.°ø°ÝÇÏ±â();
+		// ìœ„ìž„
+		weapon.ê³µê²©í•˜ê¸°();
 	}
 	
 

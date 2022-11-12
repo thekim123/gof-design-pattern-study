@@ -3,8 +3,8 @@ package com.thekim12.strategy.strategy;
 public class Knife implements Weapon{
 	
 	@Override
-	public void °ø°ÝÇÏ±â() {
-		System.out.println("Ä®Áú - Ä®°ø°Ý");
+	public void ê³µê²©í•˜ê¸°() {
+		System.out.println("ì¹¼ì§ˆ  - ì¹¼ê³µê²©");
 	}
 
 }

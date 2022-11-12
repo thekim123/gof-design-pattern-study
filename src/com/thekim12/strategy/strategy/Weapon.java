@@ -2,7 +2,6 @@ package com.thekim12.strategy.strategy;
 
 public interface Weapon {
 	
-	// ÇÑ±Û?
-	public void °ø°ÝÇÏ±â();
+	public void ê³µê²©í•˜ê¸°();
 
 }
